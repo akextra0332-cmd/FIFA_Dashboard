@@ -1,0 +1,309 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+1872-11-30,Scotland,England,0,0,Friendly,Glasgow,Scotland,FALSE
+1873-03-08,England,Scotland,4,2,Friendly,London,England,FALSE
+1875-03-06,England,Scotland,2,2,Friendly,London,England,FALSE
+1876-03-04,Scotland,England,3,0,Friendly,Glasgow,Scotland,FALSE
+1876-03-25,Scotland,Wales,4,0,Friendly,Glasgow,Scotland,FALSE
+1879-01-18,England,Wales,2,1,Friendly,London,England,FALSE
+1880-03-13,Scotland,England,5,4,Friendly,Glasgow,Scotland,FALSE
+1884-01-26,Ireland,Wales,0,1,British Championship,Belfast,Ireland,FALSE
+1900-03-03,Scotland,Wales,5,2,British Championship,Aberdeen,Scotland,FALSE
+1950-07-02,USA,England,1,0,FIFA World Cup,Belo Horizonte,Brazil,TRUE
+1950-07-13,Uruguay,Bolivia,8,0,FIFA World Cup,Belo Horizonte,Brazil,TRUE
+1954-06-16,West Germany,Turkey,4,1,FIFA World Cup,Bern,Switzerland,TRUE
+1958-06-08,Brazil,Austria,3,0,FIFA World Cup,Boras,Sweden,TRUE
+1966-07-30,England,West Germany,4,2,FIFA World Cup,London,England,FALSE
+1970-06-21,Brazil,Uruguay,3,1,FIFA World Cup,Guadalajara,Mexico,TRUE
+1974-07-07,West Germany,Netherlands,2,1,FIFA World Cup,Munich,West Germany,FALSE
+1978-06-25,Argentina,Netherlands,3,1,FIFA World Cup,Buenos Aires,Argentina,FALSE
+1982-07-11,Italy,West Germany,3,1,FIFA World Cup,Madrid,Spain,TRUE
+1986-06-29,Argentina,West Germany,3,2,FIFA World Cup,Mexico City,Mexico,TRUE
+1990-07-08,West Germany,Argentina,1,0,FIFA World Cup,Rome,Italy,TRUE
+1994-07-17,Brazil,Italy,0,0,FIFA World Cup,Pasadena,USA,TRUE
+1998-07-12,France,Brazil,3,0,FIFA World Cup,Paris,France,FALSE
+2002-06-30,Brazil,Germany,2,0,FIFA World Cup,Yokohama,Japan,TRUE
+2006-07-09,Italy,France,1,1,FIFA World Cup,Berlin,Germany,TRUE
+2010-07-11,Spain,Netherlands,1,0,FIFA World Cup,Johannesburg,South Africa,TRUE
+2014-07-13,Germany,Argentina,1,0,FIFA World Cup,Rio de Janeiro,Brazil,TRUE
+2018-07-15,France,Croatia,4,2,FIFA World Cup,Moscow,Russia,TRUE
+2022-12-18,Argentina,France,3,3,FIFA World Cup,Lusail,Qatar,TRUE
+1960-09-28,Brazil,Argentina,5,1,Friendly,Rio de Janeiro,Brazil,FALSE
+1962-06-10,Brazil,Spain,2,1,FIFA World Cup,Vina del Mar,Chile,TRUE
+1964-05-30,Brazil,England,5,1,Friendly,Rio de Janeiro,Brazil,FALSE
+1970-06-03,Brazil,Czechoslovakia,4,1,FIFA World Cup,Guadalajara,Mexico,TRUE
+1980-06-10,Argentina,Brazil,2,1,Friendly,Buenos Aires,Argentina,FALSE
+1985-07-02,France,Germany,0,0,Friendly,Paris,France,FALSE
+1988-08-17,Germany,Argentina,1,0,Friendly,Berlin,Germany,FALSE
+1990-06-16,Argentina,USSR,2,0,FIFA World Cup,Naples,Italy,TRUE
+1991-06-19,Germany,Brazil,1,1,Friendly,Stuttgart,Germany,FALSE
+1992-09-09,Germany,Brazil,3,2,Friendly,Stuttgart,Germany,FALSE
+1993-04-28,Germany,Brazil,2,0,Friendly,Cologne,Germany,FALSE
+1994-06-17,Brazil,Russia,2,0,FIFA World Cup,Stanford,USA,TRUE
+1994-06-24,Brazil,Cameroon,3,0,FIFA World Cup,Stanford,USA,TRUE
+1995-06-14,Brazil,Argentina,0,1,Copa America,Punta del Este,Uruguay,TRUE
+1996-06-18,Brazil,Norway,0,1,Olympics,Recife,Brazil,FALSE
+1997-07-30,Brazil,Germany,3,1,Copa America,La Paz,Bolivia,TRUE
+1998-06-10,Brazil,Scotland,2,1,FIFA World Cup,Paris,France,TRUE
+1998-06-16,Brazil,Morocco,3,0,FIFA World Cup,Nantes,France,TRUE
+1998-06-23,Brazil,Norway,1,2,FIFA World Cup,Marseille,France,TRUE
+1999-07-11,Brazil,Uruguay,3,0,Copa America,Asuncion,Paraguay,TRUE
+2000-05-17,Germany,Ireland,2,1,Friendly,Hanover,Germany,FALSE
+2001-03-28,Germany,Albania,2,1,FIFA World Cup Qual.,Tirana,Albania,FALSE
+2002-05-25,Germany,Israel,7,1,Friendly,Mainz,Germany,FALSE
+2003-04-02,Germany,Lithuania,1,1,UEFA Euro Qual.,Kaunas,Lithuania,FALSE
+2004-03-31,Germany,Belgium,3,0,Friendly,Cologne,Germany,FALSE
+2005-09-07,Germany,South Africa,4,2,Friendly,Leverkusen,Germany,FALSE
+2006-06-09,Germany,Costa Rica,4,2,FIFA World Cup,Munich,Germany,FALSE
+2006-06-14,Germany,Poland,1,0,FIFA World Cup,Dortmund,Germany,FALSE
+2006-06-20,Germany,Ecuador,3,0,FIFA World Cup,Berlin,Germany,FALSE
+2007-06-06,Germany,San Marino,6,0,UEFA Euro Qual.,Nuremberg,Germany,FALSE
+2008-06-25,Germany,Turkey,3,2,UEFA Euro,Basel,Switzerland,TRUE
+2009-09-09,Germany,Australia,2,0,Friendly,Monchengladbach,Germany,FALSE
+2010-06-13,Germany,Australia,4,0,FIFA World Cup,Durban,South Africa,TRUE
+2010-06-18,Germany,Serbia,0,1,FIFA World Cup,Port Elizabeth,South Africa,TRUE
+2010-06-23,Germany,Ghana,1,0,FIFA World Cup,Johannesburg,South Africa,TRUE
+2010-06-27,Germany,England,4,1,FIFA World Cup,Bloemfontein,South Africa,TRUE
+2010-07-03,Germany,Argentina,4,0,FIFA World Cup,Cape Town,South Africa,TRUE
+2010-07-07,Germany,Spain,0,1,FIFA World Cup,Durban,South Africa,TRUE
+2011-06-04,Germany,Austria,2,1,Friendly,Vienna,Austria,FALSE
+2012-06-17,Germany,Denmark,2,1,UEFA Euro,Lviv,Ukraine,TRUE
+2013-03-22,Germany,Kazakhstan,3,0,FIFA World Cup Qual.,Astana,Kazakhstan,FALSE
+2014-06-16,Germany,Portugal,4,0,FIFA World Cup,Salvador,Brazil,TRUE
+2014-06-21,Germany,Ghana,2,2,FIFA World Cup,Fortaleza,Brazil,TRUE
+2014-06-26,Germany,USA,1,0,FIFA World Cup,Recife,Brazil,TRUE
+2014-06-30,Germany,Algeria,2,1,FIFA World Cup,Porto Alegre,Brazil,TRUE
+2014-07-04,Germany,France,1,0,FIFA World Cup,Rio de Janeiro,Brazil,TRUE
+2014-07-08,Germany,Brazil,7,1,FIFA World Cup,Belo Horizonte,Brazil,TRUE
+2015-09-07,Germany,Poland,3,1,UEFA Euro Qual.,Frankfurt,Germany,FALSE
+2016-06-12,Germany,Ukraine,2,0,UEFA Euro,Lille,France,TRUE
+2016-06-16,Germany,Poland,0,0,UEFA Euro,Paris,France,TRUE
+2016-06-21,Germany,Northern Ireland,1,0,UEFA Euro,Paris,France,TRUE
+2017-07-02,Germany,Chile,1,1,FIFA Confederations Cup,Kazan,Russia,TRUE
+2018-06-17,Germany,Mexico,0,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-23,Germany,Sweden,2,1,FIFA World Cup,Sochi,Russia,TRUE
+2018-06-27,Germany,South Korea,0,2,FIFA World Cup,Kazan,Russia,TRUE
+2019-09-10,Germany,Netherlands,4,2,UEFA Euro Qual.,Hamburg,Germany,FALSE
+2020-11-14,Germany,Czech Republic,1,0,Friendly,Leipzig,Germany,FALSE
+2021-06-15,Germany,France,0,1,UEFA Euro,Munich,Germany,FALSE
+2021-06-19,Germany,Portugal,4,2,UEFA Euro,Munich,Germany,FALSE
+2021-06-23,Germany,Hungary,2,2,UEFA Euro,Munich,Germany,FALSE
+2022-06-07,Germany,Italy,5,2,UEFA Nations League,Monchengladbach,Germany,FALSE
+2022-11-23,Germany,Japan,1,2,FIFA World Cup,Al Khor,Qatar,TRUE
+2022-11-27,Germany,Spain,1,1,FIFA World Cup,Al Khor,Qatar,TRUE
+2022-12-01,Germany,Costa Rica,4,2,FIFA World Cup,Al Khor,Qatar,TRUE
+2023-09-12,Germany,France,2,1,Friendly,Dortmund,Germany,FALSE
+1993-10-27,France,Israel,2,3,FIFA World Cup Qual.,Paris,France,FALSE
+1994-09-07,France,Czech Republic,2,2,UEFA Euro Qual.,Paris,France,FALSE
+1995-08-16,France,Poland,0,0,Friendly,Metz,France,FALSE
+1996-06-23,France,Spain,1,1,UEFA Euro,Leeds,England,TRUE
+1997-06-11,France,Brazil,1,1,Friendly,Lyon,France,FALSE
+1998-06-12,France,South Africa,3,0,FIFA World Cup,Marseille,France,FALSE
+1998-06-18,France,Saudi Arabia,4,0,FIFA World Cup,Paris,France,FALSE
+1998-06-24,France,Denmark,2,1,FIFA World Cup,Lyon,France,FALSE
+1998-07-04,France,Italy,0,0,FIFA World Cup,Paris,France,FALSE
+1998-07-08,France,Croatia,2,1,FIFA World Cup,Paris,France,FALSE
+2000-06-28,France,Portugal,2,1,UEFA Euro,Brussels,Belgium,TRUE
+2000-07-02,France,Italy,2,1,UEFA Euro,Rotterdam,Netherlands,TRUE
+2001-06-06,France,Australia,1,0,FIFA Confederations Cup,Ulsan,South Korea,TRUE
+2002-06-06,France,Senegal,0,1,FIFA World Cup,Seoul,South Korea,TRUE
+2002-06-11,France,Uruguay,0,0,FIFA World Cup,Busan,South Korea,TRUE
+2002-06-06,France,Denmark,0,2,FIFA World Cup,Incheon,South Korea,TRUE
+2003-11-15,France,Germany,3,0,Friendly,Paris,France,FALSE
+2004-06-13,France,England,2,1,UEFA Euro,Lisbon,Portugal,TRUE
+2006-06-09,France,Switzerland,0,0,FIFA World Cup,Stuttgart,Germany,TRUE
+2006-06-13,France,South Korea,1,1,FIFA World Cup,Leipzig,Germany,TRUE
+2006-06-23,France,Togo,2,0,FIFA World Cup,Cologne,Germany,TRUE
+2006-07-01,France,Spain,3,1,FIFA World Cup,Hanover,Germany,TRUE
+2006-07-05,France,Portugal,1,0,FIFA World Cup,Munich,Germany,TRUE
+2010-06-11,France,Uruguay,0,0,FIFA World Cup,Cape Town,South Africa,TRUE
+2010-06-18,France,Mexico,0,2,FIFA World Cup,Polokwane,South Africa,TRUE
+2010-06-22,France,South Africa,1,2,FIFA World Cup,Bloemfontein,South Africa,TRUE
+2014-06-15,France,Honduras,3,0,FIFA World Cup,Porto Alegre,Brazil,TRUE
+2014-06-20,France,Switzerland,5,2,FIFA World Cup,Salvador,Brazil,TRUE
+2014-06-25,France,Ecuador,0,0,FIFA World Cup,Rio de Janeiro,Brazil,TRUE
+2014-06-30,France,Nigeria,2,0,FIFA World Cup,Brasilia,Brazil,TRUE
+2014-07-04,France,Germany,0,1,FIFA World Cup,Rio de Janeiro,Brazil,TRUE
+2016-06-10,France,Romania,2,1,UEFA Euro,Paris,France,FALSE
+2016-06-15,France,Albania,2,0,UEFA Euro,Marseille,France,FALSE
+2016-06-19,France,Switzerland,5,2,UEFA Euro,Lille,France,FALSE
+2018-06-16,France,Australia,2,1,FIFA World Cup,Kazan,Russia,TRUE
+2018-06-21,France,Peru,1,0,FIFA World Cup,Yekaterinburg,Russia,TRUE
+2018-06-26,France,Denmark,0,0,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-30,France,Argentina,4,3,FIFA World Cup,Kazan,Russia,TRUE
+2018-07-06,France,Uruguay,2,0,FIFA World Cup,Nizhny Novgorod,Russia,TRUE
+2018-07-10,France,Belgium,1,0,FIFA World Cup,Saint Petersburg,Russia,TRUE
+2022-11-22,France,Australia,4,1,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-11-26,France,Denmark,2,1,FIFA World Cup,Al Wakrah,Qatar,TRUE
+2022-11-30,France,Tunisia,0,1,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-12-04,France,Poland,3,1,FIFA World Cup,Al Thumama,Qatar,TRUE
+2022-12-10,France,England,2,1,FIFA World Cup,Al Khor,Qatar,TRUE
+2022-12-14,France,Morocco,2,0,FIFA World Cup,Al Khor,Qatar,TRUE
+2000-06-11,Spain,Norway,0,1,UEFA Euro,Rotterdam,Netherlands,TRUE
+2002-06-02,Spain,Slovenia,3,1,FIFA World Cup,Gwangju,South Korea,TRUE
+2002-06-07,Spain,Paraguay,3,1,FIFA World Cup,Jeonju,South Korea,TRUE
+2002-06-12,Spain,South Korea,0,0,FIFA World Cup,Daejeon,South Korea,TRUE
+2006-06-14,Spain,Ukraine,4,0,FIFA World Cup,Leipzig,Germany,TRUE
+2006-06-19,Spain,Tunisia,3,1,FIFA World Cup,Stuttgart,Germany,TRUE
+2006-06-23,Spain,Saudi Arabia,1,0,FIFA World Cup,Kaiserslautern,Germany,TRUE
+2008-06-18,Spain,Sweden,2,1,UEFA Euro,Innsbruck,Austria,TRUE
+2008-06-22,Spain,Russia,4,1,UEFA Euro,Innsbruck,Austria,TRUE
+2008-06-26,Spain,Italy,0,0,UEFA Euro,Vienna,Austria,TRUE
+2008-06-29,Spain,Germany,1,0,UEFA Euro,Vienna,Austria,TRUE
+2010-06-16,Spain,Switzerland,0,1,FIFA World Cup,Durban,South Africa,TRUE
+2010-06-21,Spain,Honduras,2,0,FIFA World Cup,Johannesburg,South Africa,TRUE
+2010-06-25,Spain,Chile,2,1,FIFA World Cup,Pretoria,South Africa,TRUE
+2010-06-29,Spain,Portugal,1,0,FIFA World Cup,Cape Town,South Africa,TRUE
+2010-07-03,Spain,Paraguay,1,0,FIFA World Cup,Johannesburg,South Africa,TRUE
+2010-07-07,Spain,Germany,1,0,FIFA World Cup,Durban,South Africa,TRUE
+2012-06-10,Spain,Italy,1,1,UEFA Euro,Gdansk,Poland,TRUE
+2012-06-14,Spain,Ireland,4,0,UEFA Euro,Gdansk,Poland,TRUE
+2012-06-18,Spain,Croatia,1,0,UEFA Euro,Gdansk,Poland,TRUE
+2012-06-23,Spain,France,2,0,UEFA Euro,Donetsk,Ukraine,TRUE
+2012-06-27,Spain,Portugal,0,0,UEFA Euro,Warsaw,Poland,TRUE
+2012-07-01,Spain,Italy,4,0,UEFA Euro,Kyiv,Ukraine,TRUE
+2014-06-13,Spain,Netherlands,1,5,FIFA World Cup,Salvador,Brazil,TRUE
+2014-06-18,Spain,Chile,0,2,FIFA World Cup,Rio de Janeiro,Brazil,TRUE
+2014-06-23,Spain,Australia,3,0,FIFA World Cup,Curitiba,Brazil,TRUE
+2018-06-15,Spain,Portugal,3,3,FIFA World Cup,Sochi,Russia,TRUE
+2018-06-20,Spain,Iran,1,0,FIFA World Cup,Kazan,Russia,TRUE
+2018-06-25,Spain,Morocco,2,2,FIFA World Cup,Kaliningrad,Russia,TRUE
+2018-06-01,Spain,Russia,3,3,FIFA World Cup,Moscow,Russia,TRUE
+2022-11-23,Spain,Costa Rica,7,0,FIFA World Cup,Al Thumama,Qatar,TRUE
+2022-11-27,Spain,Germany,1,1,FIFA World Cup,Al Khor,Qatar,TRUE
+2022-12-01,Spain,Japan,1,2,FIFA World Cup,Al Khor,Qatar,TRUE
+2022-12-06,Spain,Morocco,0,0,FIFA World Cup,Al Thumama,Qatar,TRUE
+1994-06-18,Argentina,Greece,4,0,FIFA World Cup,Boston,USA,TRUE
+1994-06-25,Argentina,Nigeria,2,1,FIFA World Cup,Boston,USA,TRUE
+1994-06-30,Argentina,Bulgaria,0,2,FIFA World Cup,Dallas,USA,TRUE
+1998-06-21,Argentina,Japan,1,0,FIFA World Cup,Toulouse,France,TRUE
+1998-06-26,Argentina,Jamaica,5,0,FIFA World Cup,Paris,France,TRUE
+2002-06-02,Argentina,Nigeria,1,0,FIFA World Cup,Ibaraki,Japan,TRUE
+2002-06-07,Argentina,England,0,1,FIFA World Cup,Sapporo,Japan,TRUE
+2006-06-10,Argentina,Ivory Coast,2,1,FIFA World Cup,Hamburg,Germany,TRUE
+2006-06-16,Argentina,Serbia,6,0,FIFA World Cup,Gelsenkirchen,Germany,TRUE
+2010-06-12,Argentina,Nigeria,1,0,FIFA World Cup,Johannesburg,South Africa,TRUE
+2010-06-17,Argentina,South Korea,4,1,FIFA World Cup,Johannesburg,South Africa,TRUE
+2010-06-22,Argentina,Greece,2,0,FIFA World Cup,Polokwane,South Africa,TRUE
+2010-06-27,Argentina,Mexico,3,1,FIFA World Cup,Johannesburg,South Africa,TRUE
+2010-07-03,Argentina,Germany,0,4,FIFA World Cup,Cape Town,South Africa,TRUE
+2014-06-15,Argentina,Bosnia Herzegovina,2,1,FIFA World Cup,Rio de Janeiro,Brazil,TRUE
+2014-06-21,Argentina,Iran,1,0,FIFA World Cup,Belo Horizonte,Brazil,TRUE
+2014-06-25,Argentina,Nigeria,3,2,FIFA World Cup,Porto Alegre,Brazil,TRUE
+2014-07-01,Argentina,Switzerland,1,0,FIFA World Cup,Sao Paulo,Brazil,TRUE
+2014-07-05,Argentina,Belgium,1,0,FIFA World Cup,Brasilia,Brazil,TRUE
+2014-07-09,Argentina,Netherlands,0,0,FIFA World Cup,Sao Paulo,Brazil,TRUE
+2018-06-16,Argentina,Iceland,1,1,FIFA World Cup,Moscow,Russia,TRUE
+2018-06-21,Argentina,Croatia,0,3,FIFA World Cup,Nizhny Novgorod,Russia,TRUE
+2018-06-26,Argentina,Nigeria,2,1,FIFA World Cup,Saint Petersburg,Russia,TRUE
+2022-11-22,Argentina,Saudi Arabia,1,2,FIFA World Cup,Lusail,Qatar,TRUE
+2022-11-26,Argentina,Mexico,2,0,FIFA World Cup,Lusail,Qatar,TRUE
+2022-11-30,Argentina,Poland,2,0,FIFA World Cup,Stadium 974,Qatar,TRUE
+2022-12-03,Argentina,Australia,2,1,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-12-09,Argentina,Netherlands,2,2,FIFA World Cup,Lusail,Qatar,TRUE
+2022-12-13,Argentina,Croatia,3,0,FIFA World Cup,Lusail,Qatar,TRUE
+1966-07-11,Brazil,Bulgaria,2,0,FIFA World Cup,Liverpool,England,TRUE
+1966-07-15,Brazil,Hungary,1,3,FIFA World Cup,Liverpool,England,TRUE
+1966-07-19,Brazil,Portugal,1,3,FIFA World Cup,Liverpool,England,TRUE
+1970-06-03,Brazil,Czechoslovakia,4,1,FIFA World Cup,Guadalajara,Mexico,TRUE
+1970-06-07,Brazil,England,1,0,FIFA World Cup,Guadalajara,Mexico,TRUE
+1970-06-10,Brazil,Romania,3,2,FIFA World Cup,Guadalajara,Mexico,TRUE
+1970-06-14,Brazil,Peru,4,2,FIFA World Cup,Guadalajara,Mexico,TRUE
+1970-06-17,Brazil,Uruguay,3,1,FIFA World Cup,Guadalajara,Mexico,TRUE
+1974-06-13,Brazil,Yugoslavia,0,0,FIFA World Cup,Frankfurt,West Germany,TRUE
+1974-06-18,Brazil,Scotland,0,0,FIFA World Cup,Frankfurt,West Germany,TRUE
+1974-06-22,Brazil,Zaire,3,0,FIFA World Cup,Dortmund,West Germany,TRUE
+1978-06-03,Brazil,Sweden,1,1,FIFA World Cup,Mar del Plata,Argentina,TRUE
+1978-06-07,Brazil,Spain,0,0,FIFA World Cup,Mar del Plata,Argentina,TRUE
+1978-06-11,Brazil,Austria,1,0,FIFA World Cup,Buenos Aires,Argentina,TRUE
+1982-06-14,Brazil,USSR,2,1,FIFA World Cup,Seville,Spain,TRUE
+1982-06-18,Brazil,Scotland,4,1,FIFA World Cup,Seville,Spain,TRUE
+1982-06-23,Brazil,New Zealand,4,0,FIFA World Cup,Seville,Spain,TRUE
+1986-06-01,Brazil,Spain,1,0,FIFA World Cup,Guadalajara,Mexico,TRUE
+1986-06-06,Brazil,Algeria,1,0,FIFA World Cup,Guadalajara,Mexico,TRUE
+1986-06-12,Brazil,Northern Ireland,3,0,FIFA World Cup,Guadalajara,Mexico,TRUE
+1990-06-10,Brazil,Sweden,2,1,FIFA World Cup,Turin,Italy,TRUE
+1990-06-15,Brazil,Costa Rica,1,0,FIFA World Cup,Turin,Italy,TRUE
+1990-06-20,Brazil,Scotland,1,0,FIFA World Cup,Turin,Italy,TRUE
+1994-06-24,Brazil,Cameroon,3,0,FIFA World Cup,Stanford,USA,TRUE
+2002-06-13,Brazil,China,4,0,FIFA World Cup,Jeju,Japan,TRUE
+2002-06-17,Brazil,Costa Rica,5,2,FIFA World Cup,Suwon,South Korea,TRUE
+2002-06-21,Brazil,Turkey,2,1,FIFA World Cup,Ulsan,South Korea,TRUE
+2002-06-27,Brazil,Belgium,2,0,FIFA World Cup,Kobe,Japan,TRUE
+2002-07-01,Brazil,England,2,1,FIFA World Cup,Shizuoka,Japan,TRUE
+2002-07-05,Brazil,Turkey,1,0,FIFA World Cup,Saitama,Japan,TRUE
+2006-06-13,Brazil,Croatia,1,0,FIFA World Cup,Berlin,Germany,TRUE
+2006-06-18,Brazil,Australia,2,0,FIFA World Cup,Munich,Germany,TRUE
+2006-06-22,Brazil,Japan,4,1,FIFA World Cup,Dortmund,Germany,TRUE
+2006-06-27,Brazil,Ghana,3,0,FIFA World Cup,Dortmund,Germany,TRUE
+2010-06-15,Brazil,North Korea,2,1,FIFA World Cup,Johannesburg,South Africa,TRUE
+2010-06-20,Brazil,Ivory Coast,3,1,FIFA World Cup,Johannesburg,South Africa,TRUE
+2010-06-25,Brazil,Portugal,0,0,FIFA World Cup,Durban,South Africa,TRUE
+2010-06-28,Brazil,Chile,3,0,FIFA World Cup,Johannesburg,South Africa,TRUE
+2010-07-02,Brazil,Netherlands,1,2,FIFA World Cup,Port Elizabeth,South Africa,TRUE
+2014-06-12,Brazil,Croatia,3,1,FIFA World Cup,Sao Paulo,Brazil,FALSE
+2014-06-17,Brazil,Mexico,0,0,FIFA World Cup,Fortaleza,Brazil,FALSE
+2014-06-23,Brazil,Cameroon,4,1,FIFA World Cup,Brasilia,Brazil,FALSE
+2014-06-28,Brazil,Chile,1,1,FIFA World Cup,Belo Horizonte,Brazil,FALSE
+2014-07-04,Brazil,Colombia,2,1,FIFA World Cup,Fortaleza,Brazil,FALSE
+2018-06-17,Brazil,Switzerland,1,1,FIFA World Cup,Rostov-on-Don,Russia,TRUE
+2018-06-22,Brazil,Costa Rica,2,0,FIFA World Cup,Saint Petersburg,Russia,TRUE
+2018-06-27,Brazil,Serbia,2,0,FIFA World Cup,Moscow,Russia,TRUE
+2018-07-02,Brazil,Mexico,2,0,FIFA World Cup,Samara,Russia,TRUE
+2018-07-06,Brazil,Belgium,1,2,FIFA World Cup,Kazan,Russia,TRUE
+2022-11-24,Brazil,Serbia,2,0,FIFA World Cup,Lusail,Qatar,TRUE
+2022-11-28,Brazil,Switzerland,1,0,FIFA World Cup,Stadium 974,Qatar,TRUE
+2022-12-02,Brazil,Cameroon,0,1,FIFA World Cup,Lusail,Qatar,TRUE
+2022-12-05,Brazil,South Korea,4,1,FIFA World Cup,Stadium 974,Qatar,TRUE
+2022-12-09,Brazil,Croatia,1,1,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2010-06-12,Italy,Paraguay,1,1,FIFA World Cup,Cape Town,South Africa,TRUE
+2010-06-20,Italy,New Zealand,1,1,FIFA World Cup,Nelspruit,South Africa,TRUE
+2010-06-24,Italy,Slovakia,2,3,FIFA World Cup,Johannesburg,South Africa,TRUE
+2014-06-14,Italy,England,2,1,FIFA World Cup,Manaus,Brazil,TRUE
+2014-06-19,Italy,Costa Rica,0,1,FIFA World Cup,Recife,Brazil,TRUE
+2014-06-24,Italy,Uruguay,0,1,FIFA World Cup,Natal,Brazil,TRUE
+2016-06-13,Italy,Belgium,2,0,UEFA Euro,Lyon,France,TRUE
+2016-06-17,Italy,Sweden,1,0,UEFA Euro,Toulouse,France,TRUE
+2016-06-22,Italy,Ireland,0,1,UEFA Euro,Lille,France,TRUE
+2016-06-27,Italy,Spain,2,0,UEFA Euro,Paris,France,TRUE
+2016-07-02,Italy,Germany,2,0,UEFA Euro,Bordeaux,France,TRUE
+2016-07-05,Italy,Belgium,2,0,UEFA Euro,Bordeaux,France,TRUE
+2021-06-11,Italy,Turkey,3,0,UEFA Euro,Rome,Italy,FALSE
+2021-06-16,Italy,Switzerland,3,0,UEFA Euro,Rome,Italy,FALSE
+2021-06-20,Italy,Wales,1,0,UEFA Euro,Rome,Italy,FALSE
+2021-06-26,Italy,Austria,2,1,UEFA Euro,London,England,TRUE
+2021-07-03,Italy,Belgium,2,1,UEFA Euro,Munich,Germany,TRUE
+2021-07-06,Italy,Spain,1,1,UEFA Euro,London,England,TRUE
+2021-07-11,Italy,England,1,1,UEFA Euro,London,England,TRUE
+2022-11-23,England,Iran,6,2,FIFA World Cup,Al Khalifa,Qatar,TRUE
+2022-11-29,England,USA,0,0,FIFA World Cup,Al Bayt,Qatar,TRUE
+2022-12-04,England,Senegal,3,0,FIFA World Cup,Al Bayt,Qatar,TRUE
+2022-12-10,England,France,1,2,FIFA World Cup,Al Khor,Qatar,TRUE
+2022-11-24,Netherlands,Senegal,2,0,FIFA World Cup,Al Thumama,Qatar,TRUE
+2022-11-29,Netherlands,Ecuador,1,1,FIFA World Cup,Khalifa,Qatar,TRUE
+2022-12-03,Netherlands,Qatar,2,0,FIFA World Cup,Al Bayt,Qatar,TRUE
+2022-12-03,Netherlands,USA,3,1,FIFA World Cup,Khalifa,Qatar,TRUE
+2022-12-09,Netherlands,Argentina,2,2,FIFA World Cup,Lusail,Qatar,TRUE
+2022-11-24,Portugal,Ghana,3,2,FIFA World Cup,Stadium 974,Qatar,TRUE
+2022-11-28,Portugal,Uruguay,2,0,FIFA World Cup,Lusail,Qatar,TRUE
+2022-12-02,Portugal,South Korea,1,2,FIFA World Cup,Education City,Qatar,TRUE
+2022-12-06,Portugal,Switzerland,6,1,FIFA World Cup,Lusail,Qatar,TRUE
+2022-12-10,Portugal,Morocco,0,1,FIFA World Cup,Al Thumama,Qatar,TRUE
+2022-11-25,Belgium,Canada,1,0,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-27,Belgium,Morocco,0,2,FIFA World Cup,Al Thumama,Qatar,TRUE
+2022-12-01,Belgium,Croatia,0,0,FIFA World Cup,Al Rayyan,Qatar,TRUE
+2022-11-22,Morocco,Croatia,0,0,FIFA World Cup,Al Bayt,Qatar,TRUE
+2022-11-27,Morocco,Belgium,2,0,FIFA World Cup,Al Thumama,Qatar,TRUE
+2022-12-01,Morocco,Canada,2,1,FIFA World Cup,Al Thumama,Qatar,TRUE
+2022-12-06,Morocco,Spain,0,0,FIFA World Cup,Education City,Qatar,TRUE
+2022-12-10,Morocco,Portugal,1,0,FIFA World Cup,Al Thumama,Qatar,TRUE
+2022-12-14,Morocco,France,0,2,FIFA World Cup,Al Khor,Qatar,TRUE
+1995-01-17,Nigeria,Mexico,2,0,FIFA World Youth Championship,Buenos Aires,Argentina,TRUE
+2000-09-30,Nigeria,Spain,3,5,Olympics,Sydney,Australia,TRUE
+2002-06-01,Senegal,France,1,0,FIFA World Cup,Seoul,South Korea,TRUE
+2002-06-14,South Korea,Germany,0,1,FIFA World Cup,Seoul,South Korea,TRUE
+2002-06-18,South Korea,Spain,0,0,FIFA World Cup,Gwangju,South Korea,FALSE
+2002-06-22,Japan,Tunisia,2,0,FIFA World Cup,Osaka,Japan,FALSE
+2010-06-14,South Africa,Mexico,1,1,FIFA World Cup,Johannesburg,South Africa,FALSE
+2010-06-22,South Africa,France,2,1,FIFA World Cup,Bloemfontein,South Africa,FALSE
+2019-06-21,USA,France,2,1,FIFA Women World Cup,Paris,France,TRUE
+2019-07-07,USA,Netherlands,2,0,FIFA Women World Cup,Lyon,France,TRUE

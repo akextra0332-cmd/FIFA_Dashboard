@@ -72,7 +72,9 @@ import charts as ch
 
 @st.cache_data
 def get_data():
-    return load_data("data/results.csv")
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    csv_path = os.path.join(base_dir, "data", "results.csv")
+    return load_data(csv_path)
 
 df_raw = get_data()
 
